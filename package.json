@@ -1,0 +1,30 @@
+{
+  "name": "jquery.cyclops",
+  "version": "1.0.0",
+  "description": "jQuery plugin for cycling through lists & tables",
+  "main": "jquery.cyclops.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t0mburton/jquery.cyclops.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "cycle",
+    "list",
+    "table",
+    "animation"
+  ],
+  "author": "Tom burton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t0mburton/jquery.cyclops/issues"
+  },
+  "homepage": "https://github.com/t0mburton/jquery.cyclops#readme",
+  "dependencies": {
+    "jquery": ">= 1.1.3"
+  }
+}
