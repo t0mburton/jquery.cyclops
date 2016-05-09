@@ -67,16 +67,3 @@
     }
   })
 })(jQuery);
-
-$(document).ready(function() {
-  $("ul").cyclops({
-    delay: 3000,
-    maxItems: 3,
-    animate: true
-  });
-  $("table").cyclops({
-    delay: 3000,
-    maxItems: 3,
-    animate: false
-  });
-});
